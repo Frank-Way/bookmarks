@@ -18,10 +18,10 @@
 
 Для запуска проекта необходимо выполнить следующие шаги:
 
-1. Установить Python 3.6.5
+1. Установить Python 3.6
 
         sudo apt-get update &&
-        sudo apt-get install python3.6.5 &&
+        sudo apt-get install python3.6
 
 2. Настроить PostgreSQL
 
