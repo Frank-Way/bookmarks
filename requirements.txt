@@ -1,0 +1,4 @@
+Django==2.0.5
+social-auth-app-django==5.0.0
+sorl-thumbnail==12.7.0
+psycopg2==2.7.5

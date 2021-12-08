@@ -1,0 +1,10 @@
+.idea/
+bookmarks/__pycache__/
+account/migrations/__pycache__/
+account/__pycache__/
+media/
+common/__pycache__/
+images/__pycache__/
+images/migrations/__pycache__/
+actions/__pycache__/
+actions/migrations/__pycache__/
